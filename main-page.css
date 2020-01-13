@@ -1,0 +1,42 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+
+  header {
+    border-bottom: 1px solid #3d8865;
+    padding: 8px 0 8px 0;
+  }
+
+  nav {
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid #3d8865;
+  }
+
+  a {
+    margin-right: 8px;
+  }
+
+  section {
+    float: left;
+    width: 360px;
+    padding: 0 8px 0 0;
+    border-right: 1px solid #3d8865;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+  }
+
+  aside {
+    float: left;
+    width: 600px;
+    padding: 0 0 0 8px;
+    box-sizing: border-box;
+  }
+
+  footer {
+    padding: 16px 0 16px 0;
+    border-top: 1px solid gray;
+    clear: left;
+  }
