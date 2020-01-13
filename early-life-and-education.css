@@ -1,0 +1,25 @@
+body {
+    width: 960px;
+    margin: 20px auto;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+
+  header {
+    border-bottom: 1px solid red;
+    padding: 8px 0 8px 0;
+  }
+
+  nav {
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid red;
+  }
+
+  footer {
+    padding: 16px 0 16px 0;
+    border-top: 1px solid red;
+  }
+
+  a {
+    margin-right: 8px;
+  }
